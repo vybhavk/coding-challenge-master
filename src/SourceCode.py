@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-Created on Fri Apr 03 17:01:14 2016
+Created on Mon Apr 03 17:01:14 2016
                                         Insight Data Engineering Code Challenge
 The challenge is to get the calculate the average degree of a vertex in a Twitter hashtag graph for the last 60 seconds, and update this each time a new tweet appears. 
 The main task is to calculate the average degree over a 60-second sliding window.
